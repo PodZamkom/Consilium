@@ -1,0 +1,92 @@
+openai/gpt-5.4-pro - OpenAI: GPT-5.4 Pro
+openai/gpt-5.4 - OpenAI: GPT-5.4
+openai/gpt-5.3-chat - OpenAI: GPT-5.3 Chat
+google/gemini-3.1-flash-lite-preview - Google: Gemini 3.1 Flash Lite Preview
+google/gemini-3.1-flash-image-preview - Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)
+google/gemini-3.1-pro-preview-customtools - Google: Gemini 3.1 Pro Preview Custom Tools
+openai/gpt-5.3-codex - OpenAI: GPT-5.3-Codex
+google/gemini-3.1-pro-preview - Google: Gemini 3.1 Pro Preview
+anthropic/claude-sonnet-4.6 - Anthropic: Claude Sonnet 4.6
+anthropic/claude-opus-4.6 - Anthropic: Claude Opus 4.6
+openai/gpt-audio - OpenAI: GPT Audio
+openai/gpt-audio-mini - OpenAI: GPT Audio Mini
+openai/gpt-5.2-codex - OpenAI: GPT-5.2-Codex
+google/gemini-3-flash-preview - Google: Gemini 3 Flash Preview
+openai/gpt-5.2-chat - OpenAI: GPT-5.2 Chat
+openai/gpt-5.2-pro - OpenAI: GPT-5.2 Pro
+openai/gpt-5.2 - OpenAI: GPT-5.2
+nex-agi/deepseek-v3.1-nex-n1 - Nex AGI: DeepSeek V3.1 Nex N1
+openai/gpt-5.1-codex-max - OpenAI: GPT-5.1-Codex-Max
+deepseek/deepseek-v3.2-speciale - DeepSeek: DeepSeek V3.2 Speciale
+deepseek/deepseek-v3.2 - DeepSeek: DeepSeek V3.2
+anthropic/claude-opus-4.5 - Anthropic: Claude Opus 4.5
+google/gemini-3-pro-image-preview - Google: Nano Banana Pro (Gemini 3 Pro Image Preview)
+google/gemini-3-pro-preview - Google: Gemini 3 Pro Preview
+openai/gpt-5.1 - OpenAI: GPT-5.1
+openai/gpt-5.1-chat - OpenAI: GPT-5.1 Chat
+openai/gpt-5.1-codex - OpenAI: GPT-5.1-Codex
+openai/gpt-5.1-codex-mini - OpenAI: GPT-5.1-Codex-Mini
+openai/gpt-oss-safeguard-20b - OpenAI: gpt-oss-safeguard-20b
+openai/gpt-5-image-mini - OpenAI: GPT-5 Image Mini
+anthropic/claude-haiku-4.5 - Anthropic: Claude Haiku 4.5
+openai/gpt-5-image - OpenAI: GPT-5 Image
+google/gemini-2.5-flash-image - Google: Nano Banana (Gemini 2.5 Flash Image)
+openai/gpt-5-pro - OpenAI: GPT-5 Pro
+anthropic/claude-sonnet-4.5 - Anthropic: Claude Sonnet 4.5
+deepseek/deepseek-v3.2-exp - DeepSeek: DeepSeek V3.2 Exp
+google/gemini-2.5-flash-lite-preview-09-2025 - Google: Gemini 2.5 Flash Lite Preview 09-2025
+openai/gpt-5-codex - OpenAI: GPT-5 Codex
+deepseek/deepseek-v3.1-terminus - DeepSeek: DeepSeek V3.1 Terminus
+deepseek/deepseek-chat-v3.1 - DeepSeek: DeepSeek V3.1
+openai/gpt-4o-audio-preview - OpenAI: GPT-4o Audio
+openai/gpt-5-chat - OpenAI: GPT-5 Chat
+openai/gpt-5 - OpenAI: GPT-5
+openai/gpt-5-mini - OpenAI: GPT-5 Mini
+openai/gpt-5-nano - OpenAI: GPT-5 Nano
+openai/gpt-oss-120b:free - OpenAI: gpt-oss-120b (free)
+openai/gpt-oss-120b - OpenAI: gpt-oss-120b
+openai/gpt-oss-20b:free - OpenAI: gpt-oss-20b (free)
+openai/gpt-oss-20b - OpenAI: gpt-oss-20b
+anthropic/claude-opus-4.1 - Anthropic: Claude Opus 4.1
+google/gemini-2.5-flash-lite - Google: Gemini 2.5 Flash Lite
+tngtech/deepseek-r1t2-chimera - TNG: DeepSeek R1T2 Chimera
+google/gemini-2.5-flash - Google: Gemini 2.5 Flash
+google/gemini-2.5-pro - Google: Gemini 2.5 Pro
+google/gemini-2.5-pro-preview - Google: Gemini 2.5 Pro Preview 06-05
+deepseek/deepseek-r1-0528 - DeepSeek: R1 0528
+anthropic/claude-opus-4 - Anthropic: Claude Opus 4
+anthropic/claude-sonnet-4 - Anthropic: Claude Sonnet 4
+google/gemini-2.5-pro-preview-05-06 - Google: Gemini 2.5 Pro Preview 05-06
+openai/gpt-4.1 - OpenAI: GPT-4.1
+openai/gpt-4.1-mini - OpenAI: GPT-4.1 Mini
+openai/gpt-4.1-nano - OpenAI: GPT-4.1 Nano
+deepseek/deepseek-chat-v3-0324 - DeepSeek: DeepSeek V3 0324
+openai/gpt-4o-mini-search-preview - OpenAI: GPT-4o-mini Search Preview
+openai/gpt-4o-search-preview - OpenAI: GPT-4o Search Preview
+google/gemini-2.0-flash-lite-001 - Google: Gemini 2.0 Flash Lite
+anthropic/claude-3.7-sonnet - Anthropic: Claude 3.7 Sonnet
+anthropic/claude-3.7-sonnet:thinking - Anthropic: Claude 3.7 Sonnet (thinking)
+google/gemini-2.0-flash-001 - Google: Gemini 2.0 Flash
+deepseek/deepseek-r1-distill-qwen-32b - DeepSeek: R1 Distill Qwen 32B
+deepseek/deepseek-r1-distill-llama-70b - DeepSeek: R1 Distill Llama 70B
+deepseek/deepseek-r1 - DeepSeek: R1
+deepseek/deepseek-chat - DeepSeek: DeepSeek V3
+openai/gpt-4o-2024-11-20 - OpenAI: GPT-4o (2024-11-20)
+anthropic/claude-3.5-haiku - Anthropic: Claude 3.5 Haiku
+anthropic/claude-3.5-sonnet - Anthropic: Claude 3.5 Sonnet
+openai/gpt-4o-2024-08-06 - OpenAI: GPT-4o (2024-08-06)
+openai/gpt-4o-mini-2024-07-18 - OpenAI: GPT-4o-mini (2024-07-18)
+openai/gpt-4o-mini - OpenAI: GPT-4o-mini
+openai/gpt-4o-2024-05-13 - OpenAI: GPT-4o (2024-05-13)
+openai/gpt-4o - OpenAI: GPT-4o
+openai/gpt-4o:extended - OpenAI: GPT-4o (extended)
+openai/gpt-4-turbo - OpenAI: GPT-4 Turbo
+anthropic/claude-3-haiku - Anthropic: Claude 3 Haiku
+openai/gpt-3.5-turbo-0613 - OpenAI: GPT-3.5 Turbo (older v0613)
+openai/gpt-4-turbo-preview - OpenAI: GPT-4 Turbo Preview
+openai/gpt-4-1106-preview - OpenAI: GPT-4 Turbo (older v1106)
+openai/gpt-3.5-turbo-instruct - OpenAI: GPT-3.5 Turbo Instruct
+openai/gpt-3.5-turbo-16k - OpenAI: GPT-3.5 Turbo 16k
+openai/gpt-4-0314 - OpenAI: GPT-4 (older v0314)
+openai/gpt-4 - OpenAI: GPT-4
+openai/gpt-3.5-turbo - OpenAI: GPT-3.5 Turbo
