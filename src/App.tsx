@@ -6,11 +6,13 @@
 import { useState, useEffect } from 'react';
 import { Sidebar } from './components/Sidebar';
 import { Chat } from './components/Chat';
+import { Login } from './components/Login';
 import { Mode, Message, SelectedModels, StandardMessage, DebateMessage, Project } from './types';
 import { fetchModels, OpenRouterModel, sendMessage } from './api/openrouter';
 import { processRAG } from './api/rag';
 
 export default function App() {
+  const [isAuthenticated, setIsAuthenticated] = useState(() => localStorage.getItem('consilium_auth') === 'true');
   const [apiKey, setApiKey] = useState(() => localStorage.getItem('openrouter_key') || '');
   
   const [projects, setProjects] = useState<Project[]>(() => {
@@ -208,6 +210,10 @@ export default function App() {
       setLoadingStatus('');
     }
   };
+
+  if (!isAuthenticated) {
+    return <Login onLogin={() => setIsAuthenticated(true)} />;
+  }
 
   return (
     <div className="flex h-screen bg-[#09090b] text-zinc-100 font-sans overflow-hidden">

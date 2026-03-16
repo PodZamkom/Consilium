@@ -67,7 +67,7 @@ export function Sidebar({
           <BrainCircuit className="w-5 h-5 text-indigo-500" />
           НейроКонсилиум
         </h1>
-        <p className="text-xs text-zinc-500 mt-1.5 font-medium">Аналитическая платформа</p>
+        <p className="text-xs text-zinc-500 mt-1.5 font-medium">Аналитическая платформа <span className="text-[10px] opacity-50 ml-1">v0.0.2</span></p>
       </div>
 
       <div className="flex-1 overflow-y-auto p-6 space-y-8 custom-scrollbar">

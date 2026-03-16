@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    container_name: consilium-web
+    restart: always
+    ports:
+      - "3050:3000"
+    # ENV variables can be added here if needed
